@@ -239,7 +239,7 @@ class QueryYidong(object):
     def saveRouteList(self):
         routeList = []
         routeListSet = []
-        for item in yidong.queryRouteList():
+        for item in self.queryRouteList():
             # print(item)
             if item:
                 if not item in routeList:
@@ -254,7 +254,7 @@ class QueryYidong(object):
         self.save2JSON('routeListSet', routeListSet)
 
     def setRouteList(self):
-        for item in yidong.queryRouteList():
+        for item in self.queryRouteList():
             if item:
                 if not item['routeSeq'] in self._routeList:
                     self._routeList.append(item['routeSeq'])
@@ -316,6 +316,50 @@ class QueryYidong(object):
             routeStationList[k] = single
 
         self.save2JSON('routeStationList',routeStationList)
+
+    def saveRouteStationTime(self):
+        routeStationTime = {}
+        for item in self.queryRouteStationTime():
+            if item['routeSeq'] in routeStationTime:
+                if item['type'] == 0:
+                    if item['routeCode'] in routeStationTime[item['routeSeq']][0]:
+                        routeStationTime[item['routeSeq']][0][item['routeCode']].append(item)
+                    else:
+                        routeStationTime[item['routeSeq']][0][item['routeCode']] = []
+                        routeStationTime[item['routeSeq']][0][item['routeCode']].append(item)
+            else:
+                routeStationTime[item['routeSeq']] = {0:{},1:{}}
+                if item['type'] == 0:
+                    if item['routeCode'] in routeStationTime[item['routeSeq']][0]:
+                        routeStationTime[item['routeSeq']][0][item['routeCode']].append(item)
+                    else:
+                        routeStationTime[item['routeSeq']][0][item['routeCode']] = []
+                        routeStationTime[item['routeSeq']][0][item['routeCode']].append(item)
+
+        for item in self.queryRouteStationTime(type=1):
+            if item['routeSeq'] in routeStationTime:
+                if item['type'] == 1:
+                    if item['routeCode'] in routeStationTime[item['routeSeq']][1]:
+                        routeStationTime[item['routeSeq']][1][item['routeCode']].append(item)
+                    else:
+                        routeStationTime[item['routeSeq']][1][item['routeCode']] = []
+                        routeStationTime[item['routeSeq']][1][item['routeCode']].append(item)
+            else:
+                routeStationTime[item['routeSeq']] = {0:{},1:{}}
+                if item['type'] == 1:
+                    if item['routeCode'] in routeStationTime[item['routeSeq']][1]:
+                        routeStationTime[item['routeSeq']][1][item['routeCode']].append(item)
+                    else:
+                        routeStationTime[item['routeSeq']][1][item['routeCode']] = []
+                        routeStationTime[item['routeSeq']][1][item['routeCode']].append(item)
+
+        self.save2JSON('routeStationTime',routeStationTime)
+
+    def saveAll(self):
+        self.saveRouteList()
+        self.saveBusSchedule()
+        self.saveRouteStationList()
+        self.saveRouteStationTime()
 
     def save2JSON(self, folder_name, document):
         assert type(folder_name) is str
