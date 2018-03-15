@@ -260,24 +260,25 @@ class QueryYidong(object):
                     self._routeList.append(item['routeSeq'])
 
     def saveBusSchedule(self):
-        if not self._routeList:
-            self.setRouteList()
-        busScheduleDict = {i:[] for i in self._routeList}
-        busScheduleOtherDict = {}
+        # if not self._routeList:
+        #     self.setRouteList()
+        # busScheduleDict = {i:[] for i in self._routeList}
+        # busScheduleOtherDict = {}
+        busScheduleDict = {}
         for item in self.queryBusSchedule():
             if item['routeSeq'] in busScheduleDict:
                 busScheduleDict[item['routeSeq']].append(item)
                 #只考虑在routelist里有的车子，其他的不保存
             else:
                 #还是另外保存起来吧
-                if item['routeSeq'] in busScheduleOtherDict:
-                    busScheduleOtherDict[item['routeSeq']].append(item)
-                else:
-                    busScheduleOtherDict[item['routeSeq']] = []
-                    busScheduleOtherDict[item['routeSeq']].append(item)
+                # if item['routeSeq'] in busScheduleOtherDict:
+                #     busScheduleOtherDict[item['routeSeq']].append(item)
+                # else:
+                busScheduleDict[item['routeSeq']] = []
+                busScheduleDict[item['routeSeq']].append(item)
 
         self.save2JSON('busSchedule', busScheduleDict)
-        self.save2JSON('busScheduleOther',busScheduleOtherDict)
+        # self.save2JSON('busScheduleOther',busScheduleOtherDict)
 
     def saveBusScheduleCHN(self):
         busScheduleDict = {}
@@ -294,14 +295,20 @@ class QueryYidong(object):
     def saveRouteStationList(self):
         routeStationList = {}
 
-        with open('busScheduleCHN' + str(date.today()) + '.json', 'r', encoding='utf-8') as f:
+        #以名字为key
+        # with open('busScheduleCHN' + str(date.today()) + '.json', 'r', encoding='utf-8') as f:
+        #     a = f.read()
+        #     a = json.loads(a)
+
+        #以序号为key
+        with open('data\\'+'busSchedule\\'+'busSchedule' + str(date.today()) + '.json', 'r', encoding='utf-8') as f:
             a = f.read()
             a = json.loads(a)
 
         for k,v in a.items():
 
             single = {0: [], 1: []}
-            for item in yidong.queryRouteStationList(v[0]['routeSeq']):
+            for item in self.queryRouteStationList(v[-1]['routeSeq']):
                 if item['type'] == 0:
                     single[0].append(item)
                 else:
