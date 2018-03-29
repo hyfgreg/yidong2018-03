@@ -29,6 +29,7 @@ class QueryYidong(object):
         self._url_queryRouteStationTime = '/tj/routeStationTime/queryRouteStationTime.jhtml'  # 时刻表
         self._url_getRouteCarDynamic = '/tj/route/getRouteCarDynamic.jhtml'  # 车辆实时动态
         self._routeList = []
+        self._save_func = [self.saveBusSchedule,self.saveRouteList,self.saveRouteStationList,self.saveRouteStationTime]
 
     def queryBusSchedule(self, routeSeq=None, scheduleDate=str(date.today())):
         text = self._queryBusSchedule(routeSeq=routeSeq, scheduleDate=scheduleDate)
@@ -72,7 +73,8 @@ class QueryYidong(object):
                 return response.text
             else:
                 print('请求失败', response.status_code)
-                return response.text
+                print(response.text)
+                return None
         except Exception as e:
             print('请求错误')
             return e.args
@@ -101,7 +103,8 @@ class QueryYidong(object):
                 return response.text
             else:
                 print('请求失败', response.status_code)
-                return response.text
+                print(response.text)
+                return None
         except Exception as e:
             print('请求错误')
             return e.args
@@ -127,7 +130,8 @@ class QueryYidong(object):
                 return response.text
             else:
                 print('请求失败', response.status_code)
-                return response.text
+                print(response.text)
+                return None
         except Exception as e:
             print('请求错误')
             return e.args
@@ -180,7 +184,8 @@ class QueryYidong(object):
                 return response.text
             else:
                 print('请求失败', response.status_code)
-                return response.text
+                print(response.text)
+                return None
         except Exception as e:
             print('请求错误')
             return e.args
@@ -217,7 +222,8 @@ class QueryYidong(object):
                 return response.text
             else:
                 print('获取失败: ', response.status_code)
-                return response.text
+                print(response.text)
+                return None
         except Exception as e:
             print('请求出错:', e.args)
 
@@ -356,10 +362,12 @@ class QueryYidong(object):
         self.save2JSON('routeStationTime',routeStationTime)
 
     def saveAll(self):
-        self.saveRouteList()
-        self.saveBusSchedule()
-        self.saveRouteStationList()
-        self.saveRouteStationTime()
+        for func in self._save_func:
+            try:
+                func()
+            except Exception as e:
+                print(e.args)
+                print('{}失败'.format(func.__name__))
 
     def save2JSON(self, folder_name, document):
         assert type(folder_name) is str
@@ -370,10 +378,10 @@ class QueryYidong(object):
             f.write(documentJSONBYTES)
 
 
-if __name__ == '__main__':
-    yidong = QueryYidong()
-
-    yidong.saveRouteList()
+# if __name__ == '__main__':
+#     yidong = QueryYidong()
+#
+#     yidong.saveRouteList()
 
     # routeSeqXL = []
     # for item in yidong.queryRouteList():

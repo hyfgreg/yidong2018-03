@@ -1,0 +1,4199 @@
+{
+    "21": {
+        "schedule": [
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "06:25"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "06:30"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "06:40"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "06:42"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "06:46"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "06:49"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "06:51"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "06:52"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "06:57"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "07:00"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "07:23"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "07:28"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 07:28:00",
+                "driverId": 380,
+                "vehicleNo": "沪DJ0153",
+                "routeCodeStr": "HQ0625",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 06:25:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "07:30"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "07:55"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "07:57"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "08:00"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "08:03"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "08:05"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "08:10"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "08:13"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "08:15"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "08:20"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "08:30"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 08:33:00",
+                "driverId": 380,
+                "vehicleNo": "沪DJ0153",
+                "routeCodeStr": "HQ0730",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 07:30:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "06:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "07:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "07:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "07:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "07:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "07:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "07:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "07:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "07:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "07:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "07:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "07:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 07:58:00",
+                "driverId": 7063,
+                "vehicleNo": "沪DJ0360",
+                "routeCodeStr": "HQ0655",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 06:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "08:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "08:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "08:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "08:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "08:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "08:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "08:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "08:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "08:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "08:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "09:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 09:03:00",
+                "driverId": 7063,
+                "vehicleNo": "沪DJ0360",
+                "routeCodeStr": "HQ0800",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 08:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "07:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "08:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "08:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "08:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "08:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "08:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "08:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "08:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "08:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "08:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "08:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "08:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 08:58:00",
+                "driverId": 5150,
+                "vehicleNo": "沪DJ0347",
+                "routeCodeStr": "HQ0755",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 07:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "09:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "09:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "09:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "09:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "09:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "09:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "09:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "09:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "09:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "09:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "10:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 10:03:00",
+                "driverId": 5150,
+                "vehicleNo": "沪DJ0347",
+                "routeCodeStr": "HQ0900",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 09:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "08:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "09:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "09:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "09:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "09:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "09:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "09:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "09:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "09:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "09:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "09:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "09:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 09:58:00",
+                "driverId": 368,
+                "vehicleNo": "沪DJ0310",
+                "routeCodeStr": "HQ0855",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 08:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "10:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "10:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "10:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "10:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "10:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "10:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "10:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "10:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "10:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "10:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "11:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 11:03:00",
+                "driverId": 368,
+                "vehicleNo": "沪DJ0310",
+                "routeCodeStr": "HQ1000",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 10:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "09:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "10:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "10:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "10:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "10:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "10:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "10:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "10:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "10:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "10:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "10:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "10:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 10:58:00",
+                "driverId": 380,
+                "vehicleNo": "沪DJ0339",
+                "routeCodeStr": "HQ0955",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 09:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "11:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "11:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "11:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "11:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "11:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "11:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "11:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "11:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "11:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "11:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "12:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 12:03:00",
+                "driverId": 380,
+                "vehicleNo": "沪DJ0339",
+                "routeCodeStr": "HQ1100",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 11:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "10:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "11:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "11:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "11:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "11:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "11:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "11:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "11:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "11:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "11:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "11:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "11:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 11:58:00",
+                "driverId": 7063,
+                "vehicleNo": "沪DG6338",
+                "routeCodeStr": "HQ1055",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 10:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "12:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "12:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "12:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "12:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "12:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "12:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "12:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "12:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "12:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "12:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "13:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 13:03:00",
+                "driverId": 7063,
+                "vehicleNo": "沪DG6338",
+                "routeCodeStr": "HQ1200",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 12:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "11:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "12:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "12:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "12:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "12:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "12:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "12:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "12:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "12:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "12:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "12:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "12:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 12:58:00",
+                "driverId": 5150,
+                "vehicleNo": "沪DJ0363",
+                "routeCodeStr": "HQ1155",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 11:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "13:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "13:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "13:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "13:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "13:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "13:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "13:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "13:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "13:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "13:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "14:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 14:03:00",
+                "driverId": 5150,
+                "vehicleNo": "沪DJ0363",
+                "routeCodeStr": "HQ1300",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 13:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "12:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "13:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "13:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "13:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "13:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "13:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "13:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "13:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "13:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "13:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "13:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "13:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 13:58:00",
+                "driverId": 368,
+                "vehicleNo": "沪DJ0172",
+                "routeCodeStr": "HQ1255",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 12:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "14:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "14:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "14:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "14:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "14:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "14:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "14:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "14:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "14:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "14:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "15:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 15:03:00",
+                "driverId": 368,
+                "vehicleNo": "沪DJ0172",
+                "routeCodeStr": "HQ1400",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 14:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "13:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "14:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "14:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "14:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "14:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "14:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "14:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "14:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "14:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "14:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "14:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "14:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 14:58:00",
+                "driverId": 380,
+                "vehicleNo": "沪DJ0153",
+                "routeCodeStr": "HQ1355",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 13:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "15:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "15:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "15:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "15:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "15:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "15:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "15:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "15:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "15:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "15:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "16:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 16:03:00",
+                "driverId": 380,
+                "vehicleNo": "沪DJ0153",
+                "routeCodeStr": "HQ1500",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 15:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "14:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "15:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "15:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "15:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "15:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "15:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "15:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "15:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "15:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "15:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "15:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "15:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 15:58:00",
+                "driverId": 7063,
+                "vehicleNo": "沪DJ0360",
+                "routeCodeStr": "HQ1455",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 14:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "16:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "16:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "16:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "16:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "16:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "16:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "16:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "16:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "16:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "16:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "17:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 17:03:00",
+                "driverId": 7063,
+                "vehicleNo": "沪DJ0360",
+                "routeCodeStr": "HQ1600",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 16:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "15:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "16:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "16:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "16:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "16:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "16:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "16:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "16:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "16:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "16:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "16:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "16:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 16:58:00",
+                "driverId": 6050,
+                "vehicleNo": "沪DJ0337",
+                "routeCodeStr": "HQ1555",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 15:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "17:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "17:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "17:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "17:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "17:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "17:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "17:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "17:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "17:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "17:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "18:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 18:03:00",
+                "driverId": 6050,
+                "vehicleNo": "沪DJ0337",
+                "routeCodeStr": "HQ1700",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 17:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "16:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "17:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "17:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "17:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "17:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "17:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "17:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "17:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "17:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "17:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "17:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "17:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 17:58:00",
+                "driverId": 202,
+                "vehicleNo": "沪DJ0232",
+                "routeCodeStr": "HQ1655",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 16:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "18:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "18:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "18:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "18:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "18:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "18:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "18:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "18:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "18:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "18:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "19:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 19:03:00",
+                "driverId": 202,
+                "vehicleNo": "沪DJ0232",
+                "routeCodeStr": "HQ1800",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 18:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "17:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "18:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "18:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "18:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "18:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "18:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "18:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "18:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "18:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "18:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "18:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "18:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 18:58:00",
+                "driverId": 5150,
+                "vehicleNo": "沪DJ0347",
+                "routeCodeStr": "HQ1755",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 17:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "19:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "19:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "19:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "19:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "19:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "19:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "19:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "19:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "19:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "19:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "20:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 20:03:00",
+                "driverId": 5150,
+                "vehicleNo": "沪DJ0347",
+                "routeCodeStr": "HQ1900",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 19:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "18:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "19:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "19:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "19:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "19:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "19:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "19:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "19:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "19:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "19:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "19:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "19:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 19:58:00",
+                "driverId": 368,
+                "vehicleNo": "沪DJ0172",
+                "routeCodeStr": "HQ1855",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 18:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "20:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "20:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "20:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "20:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "20:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "20:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "20:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "20:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "20:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "20:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "21:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 21:03:00",
+                "driverId": 368,
+                "vehicleNo": "沪DJ0172",
+                "routeCodeStr": "HQ2000",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 20:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "19:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "20:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "20:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "20:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "20:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "20:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "20:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "20:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "20:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "20:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "20:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "20:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 20:58:00",
+                "driverId": 6050,
+                "vehicleNo": "沪DG6338",
+                "routeCodeStr": "HQ1955",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 19:55:00",
+                "startStationName": "嘉实广场"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "21:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "21:25"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "21:27"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "21:30"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "21:33"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "21:35"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "21:40"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "21:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "21:45"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 1,
+                        "stationId": 1009,
+                        "time": "21:50"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 1,
+                        "stationId": 1010,
+                        "time": "22:00"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 22:03:00",
+                "driverId": 6050,
+                "vehicleNo": "沪DG6338",
+                "routeCodeStr": "HQ2100",
+                "endStation": "嘉实广场",
+                "departureTime": "2018-03-25 21:00:00",
+                "startStationName": "虹桥火车站P9停车场"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "20:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "21:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "21:10"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "21:12"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "21:16"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "21:19"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "21:21"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "21:22"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "21:27"
+                    },
+                    {
+                        "stationFlag": 10,
+                        "type": 0,
+                        "stationId": 499,
+                        "time": "21:30"
+                    },
+                    {
+                        "stationFlag": 11,
+                        "type": 0,
+                        "stationId": 500,
+                        "time": "21:53"
+                    },
+                    {
+                        "stationFlag": 12,
+                        "type": 0,
+                        "stationId": 501,
+                        "time": "21:58"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 21:58:00",
+                "driverId": 202,
+                "vehicleNo": "沪DJ0339",
+                "routeCodeStr": "HQ2055",
+                "endStation": "虹桥火车站P9停车场",
+                "departureTime": "2018-03-25 20:55:00",
+                "startStationName": "嘉实广场"
+            }
+        ],
+        "scheduleDate": "2018-03-25",
+        "routeStationList": {
+            "0": [
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.229604,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "嘉实广场",
+                    "latitude": 31.293208,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=314",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 21,
+                    "flag": 1,
+                    "id": 314,
+                    "stationAddress": "嘉实广场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498529194776.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.217442,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "同济大学嘉定校区",
+                    "latitude": 31.288512,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=25",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 61,
+                    "routeSeq": 21,
+                    "flag": 2,
+                    "id": 25,
+                    "stationAddress": "同济大学嘉定校区",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579100623.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.16984,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "嘉亭荟（11号线安亭站）",
+                    "latitude": 31.293667,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=27",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 63,
+                    "routeSeq": 21,
+                    "flag": 3,
+                    "id": 27,
+                    "stationAddress": "嘉亭荟（11号线安亭站）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579121684.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.171028,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "汽车城大厦",
+                    "latitude": 31.286734,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=28",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 64,
+                    "routeSeq": 21,
+                    "flag": 4,
+                    "id": 28,
+                    "stationAddress": "汽车城大厦",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579134441.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.176479,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "安亭新镇",
+                    "latitude": 31.276408,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=29",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 65,
+                    "routeSeq": 21,
+                    "flag": 5,
+                    "id": 29,
+                    "stationAddress": "安亭新镇",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579147362.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.17623,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "会展中心(博物馆)",
+                    "latitude": 31.286509,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=30",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 66,
+                    "routeSeq": 21,
+                    "flag": 6,
+                    "id": 30,
+                    "stationAddress": "会展中心(博物馆)",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579160790.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.186949,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "万立城（汽车城站）",
+                    "latitude": 31.289966,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=31",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 67,
+                    "routeSeq": 21,
+                    "flag": 7,
+                    "id": 31,
+                    "stationAddress": "万立城（汽车城站）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579182546.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.189696,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": " 检测中心",
+                    "latitude": 31.288187,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=32",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 68,
+                    "routeSeq": 21,
+                    "flag": 8,
+                    "id": 32,
+                    "stationAddress": " 检测中心",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498529392305.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.199315,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "创新港（舍弗勒）",
+                    "latitude": 31.284537,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=33",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 69,
+                    "routeSeq": 21,
+                    "flag": 9,
+                    "id": 33,
+                    "stationAddress": "创新港（舍弗勒）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498529428527.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.199025,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "颖奕酒店（高尔夫）",
+                    "latitude": 31.279744,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=34",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 70,
+                    "routeSeq": 21,
+                    "flag": 10,
+                    "id": 34,
+                    "stationAddress": "颖奕酒店（高尔夫）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498579222712.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.332175,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "虹桥机场T2（北）出发9号门 仅下客",
+                    "latitude": 31.201568,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=35",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 71,
+                    "routeSeq": 21,
+                    "flag": 11,
+                    "id": 35,
+                    "stationAddress": "虹桥机场T2（北）出发9号门 仅下客",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1499745742642.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.324073,
+                    "gongLi": 1000,
+                    "type": 0,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "虹桥火车站P9停车场",
+                    "latitude": 31.201165,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=36",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 72,
+                    "routeSeq": 21,
+                    "flag": 12,
+                    "id": 36,
+                    "stationAddress": "虹桥火车站P9停车场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498619891748.png"
+                }
+            ],
+            "1": [
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.324073,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "虹桥火车站P9停车场",
+                    "latitude": 31.201165,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=37",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 73,
+                    "routeSeq": 21,
+                    "flag": 1,
+                    "id": 37,
+                    "stationAddress": "虹桥火车站P9停车场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498619922450.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.199025,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "颖奕酒店（高尔夫）",
+                    "latitude": 31.279744,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=38",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 74,
+                    "routeSeq": 21,
+                    "flag": 2,
+                    "id": 38,
+                    "stationAddress": "颖奕酒店（高尔夫）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498619946502.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.200147,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "创新港（舍弗勒）",
+                    "latitude": 31.284028,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=39",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 75,
+                    "routeSeq": 21,
+                    "flag": 3,
+                    "id": 39,
+                    "stationAddress": "创新港（舍弗勒）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498619961987.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.189696,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": " 检测中心",
+                    "latitude": 31.288187,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=40",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 76,
+                    "routeSeq": 21,
+                    "flag": 4,
+                    "id": 40,
+                    "stationAddress": " 检测中心",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498619982541.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.186949,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "万立城（汽车城站）",
+                    "latitude": 31.289966,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=41",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 77,
+                    "routeSeq": 21,
+                    "flag": 5,
+                    "id": 41,
+                    "stationAddress": "万立城（汽车城站）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498619997896.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.174619,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "会展中心（博物馆）",
+                    "latitude": 31.286721,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=42",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 78,
+                    "routeSeq": 21,
+                    "flag": 6,
+                    "id": 42,
+                    "stationAddress": "会展中心（博物馆）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498620010446.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.176341,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "安亭新镇",
+                    "latitude": 31.276364,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=43",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 79,
+                    "routeSeq": 21,
+                    "flag": 7,
+                    "id": 43,
+                    "stationAddress": "安亭新镇",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498620023537.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.171249,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "汽车城大厦",
+                    "latitude": 31.287038,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=44",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 80,
+                    "routeSeq": 21,
+                    "flag": 8,
+                    "id": 44,
+                    "stationAddress": "汽车城大厦",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498620037178.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.17013,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "嘉亭荟（安亭站)",
+                    "latitude": 31.29278,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=45",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 81,
+                    "routeSeq": 21,
+                    "flag": 9,
+                    "id": 45,
+                    "stationAddress": "嘉亭荟（安亭站)",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498620048774.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.217442,
+                    "gongLi": 1000,
+                    "type": 1,
+                    "routeName": "汽车城---虹桥枢纽专线",
+                    "stationName": "同济大学嘉定校区站",
+                    "latitude": 31.288512,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=47",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": 83,
+                    "routeSeq": 21,
+                    "flag": 10,
+                    "id": 47,
+                    "stationAddress": "同济大学嘉定校区站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498620059454.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.229698,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "嘉实广场",
+                    "latitude": 31.293486,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=315",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 21,
+                    "flag": 11,
+                    "id": 315,
+                    "stationAddress": "嘉实广场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498524454898.jpg"
+                }
+            ]
+        },
+        "routeName": "汽车城---虹桥枢纽线",
+        "routeSeq": 21
+    },
+    "307": {
+        "schedule": [
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "09:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "09:03"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "09:05"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "09:07"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "09:11"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "09:13"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "09:16"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "09:36"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 09:40:00",
+                "driverId": 351,
+                "vehicleNo": "沪A09292D",
+                "routeCodeStr": "JY0900",
+                "endStation": "郊野公园",
+                "departureTime": "2018-03-25 09:00:00",
+                "startStationName": "安亭新镇"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "10:15"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "10:18"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "10:20"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "10:22"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "10:26"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "10:28"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "10:31"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "10:51"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 10:55:00",
+                "driverId": 351,
+                "vehicleNo": "沪A09292D",
+                "routeCodeStr": "JY1015",
+                "endStation": "郊野公园",
+                "departureTime": "2018-03-25 10:15:00",
+                "startStationName": "安亭新镇"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "15:30"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "15:50"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "15:53"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "15:55"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "15:58"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "16:00"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "16:02"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "16:05"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 16:10:00",
+                "driverId": 351,
+                "vehicleNo": "沪A09292D",
+                "routeCodeStr": "JY1530",
+                "endStation": "安亭新镇",
+                "departureTime": "2018-03-25 15:30:00",
+                "startStationName": "郊野公园"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "16:50"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "17:10"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "17:13"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "17:15"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "17:18"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "17:20"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "17:22"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "17:25"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 17:30:00",
+                "driverId": 351,
+                "vehicleNo": "沪A09292D",
+                "routeCodeStr": "JY1650",
+                "endStation": "安亭新镇",
+                "departureTime": "2018-03-25 16:50:00",
+                "startStationName": "郊野公园"
+            }
+        ],
+        "scheduleDate": "2018-03-25",
+        "routeStationList": {
+            "0": [
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.176341,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "安亭新镇",
+                    "latitude": 31.276364,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=474",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 1,
+                    "id": 474,
+                    "stationAddress": "安亭新镇",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145245373.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.171249,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "汽车城大厦",
+                    "latitude": 31.287038,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=475",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 2,
+                    "id": 475,
+                    "stationAddress": "汽车城大厦",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145278801.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.17013,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "嘉亭荟",
+                    "latitude": 31.29278,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=476",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 3,
+                    "id": 476,
+                    "stationAddress": "嘉亭荟",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145236604.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.16988,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "市民广场",
+                    "latitude": 31.303108,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=477",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 4,
+                    "id": 477,
+                    "stationAddress": "市民广场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145226556.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.157388,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "沁富佳苑",
+                    "latitude": 31.314938,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=478",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 5,
+                    "id": 478,
+                    "stationAddress": "沁富佳苑",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144768577.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.163907,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "安亭北站",
+                    "latitude": 31.319569,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=479",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 6,
+                    "id": 479,
+                    "stationAddress": "安亭北站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144789207.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.17213,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "肝胆医院",
+                    "latitude": 31.327807,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=480",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 7,
+                    "id": 480,
+                    "stationAddress": "肝胆医院",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144806061.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.211337,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "郊野公园",
+                    "latitude": 31.373775,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=481",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 8,
+                    "id": 481,
+                    "stationAddress": "郊野公园",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144821014.png"
+                }
+            ],
+            "1": [
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.209932,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "郊野公园",
+                    "latitude": 31.374351,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=482",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 1,
+                    "id": 482,
+                    "stationAddress": "郊野公园",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144834929.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.171062,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "肝胆医院",
+                    "latitude": 31.327187,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=483",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 2,
+                    "id": 483,
+                    "stationAddress": "肝胆医院",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144849811.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.163008,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "安亭北站",
+                    "latitude": 31.320056,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=484",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 3,
+                    "id": 484,
+                    "stationAddress": "安亭北站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144867202.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.157322,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "沁富佳苑",
+                    "latitude": 31.314253,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=485",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 4,
+                    "id": 485,
+                    "stationAddress": "沁富佳苑",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144883813.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.169698,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "市民广场",
+                    "latitude": 31.303427,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=486",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 5,
+                    "id": 486,
+                    "stationAddress": "市民广场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145305456.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.16984,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "嘉亭荟",
+                    "latitude": 31.293667,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=487",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 6,
+                    "id": 487,
+                    "stationAddress": "嘉亭荟",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145315929.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.171028,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "汽车城大厦",
+                    "latitude": 31.286734,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=488",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 7,
+                    "id": 488,
+                    "stationAddress": "汽车城大厦",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145325957.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.176479,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "安亭新镇",
+                    "latitude": 31.276408,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=489",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 307,
+                    "flag": 8,
+                    "id": 489,
+                    "stationAddress": "安亭新镇",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145335891.jpg"
+                }
+            ]
+        },
+        "routeName": "汽车城---郊野公园线",
+        "routeSeq": 307
+    },
+    "101": {
+        "schedule": [
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "09:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "09:03"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "09:05"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "09:07"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "09:10"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "09:12"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "09:17"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "09:47"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "09:52"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 10:35:00",
+                "driverId": 351,
+                "vehicleNo": "沪A08180D",
+                "routeCodeStr": "ZS0900",
+                "endStation": "中山公园",
+                "departureTime": "2018-03-25 09:00:00",
+                "startStationName": "肝胆医院"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "09:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "10:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "10:30"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "10:35"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "10:37"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "10:39"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "10:41"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "10:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "10:46"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 11:30:00",
+                "driverId": 351,
+                "vehicleNo": "沪A08180D",
+                "routeCodeStr": "ZS0955",
+                "endStation": "肝胆医院",
+                "departureTime": "2018-03-25 09:55:00",
+                "startStationName": "中山公园"
+            },
+            {
+                "type": 0,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 0,
+                        "stationId": 1023,
+                        "time": "18:00"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 0,
+                        "stationId": 767,
+                        "time": "18:03"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 0,
+                        "stationId": 246,
+                        "time": "18:05"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 0,
+                        "stationId": 247,
+                        "time": "18:07"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 0,
+                        "stationId": 248,
+                        "time": "18:10"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 0,
+                        "stationId": 249,
+                        "time": "18:12"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 0,
+                        "stationId": 250,
+                        "time": "18:17"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 0,
+                        "stationId": 251,
+                        "time": "18:47"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 0,
+                        "stationId": 252,
+                        "time": "18:52"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 19:35:00",
+                "driverId": 351,
+                "vehicleNo": "沪A08180D",
+                "routeCodeStr": "ZS1800",
+                "endStation": "中山公园",
+                "departureTime": "2018-03-25 18:00:00",
+                "startStationName": "肝胆医院"
+            },
+            {
+                "type": 1,
+                "routeStationTime": [
+                    {
+                        "stationFlag": 1,
+                        "type": 1,
+                        "stationId": 1021,
+                        "time": "18:55"
+                    },
+                    {
+                        "stationFlag": 2,
+                        "type": 1,
+                        "stationId": 1022,
+                        "time": "19:00"
+                    },
+                    {
+                        "stationFlag": 3,
+                        "type": 1,
+                        "stationId": 255,
+                        "time": "19:30"
+                    },
+                    {
+                        "stationFlag": 4,
+                        "type": 1,
+                        "stationId": 511,
+                        "time": "19:35"
+                    },
+                    {
+                        "stationFlag": 5,
+                        "type": 1,
+                        "stationId": 1004,
+                        "time": "19:37"
+                    },
+                    {
+                        "stationFlag": 6,
+                        "type": 1,
+                        "stationId": 1005,
+                        "time": "19:39"
+                    },
+                    {
+                        "stationFlag": 7,
+                        "type": 1,
+                        "stationId": 1006,
+                        "time": "19:41"
+                    },
+                    {
+                        "stationFlag": 8,
+                        "type": 1,
+                        "stationId": 1007,
+                        "time": "19:43"
+                    },
+                    {
+                        "stationFlag": 9,
+                        "type": 1,
+                        "stationId": 1008,
+                        "time": "19:46"
+                    }
+                ],
+                "arrivalTime": "2018-03-25 20:30:00",
+                "driverId": 351,
+                "vehicleNo": "沪A08180D",
+                "routeCodeStr": "ZS1855",
+                "endStation": "肝胆医院",
+                "departureTime": "2018-03-25 18:55:00",
+                "startStationName": "中山公园"
+            }
+        ],
+        "scheduleDate": "2018-03-25",
+        "routeStationList": {
+            "0": [
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.171062,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "肝胆医院",
+                    "latitude": 31.327187,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=308",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 1,
+                    "id": 308,
+                    "stationAddress": "肝胆医院",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144912537.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.163008,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "安亭北站",
+                    "latitude": 31.320056,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=307",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 2,
+                    "id": 307,
+                    "stationAddress": "安亭北站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144930418.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.159384,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "兰塘集贸市场",
+                    "latitude": 31.311693,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=306",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 3,
+                    "id": 306,
+                    "stationAddress": "民丰路新源路-公交车站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144949937.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.167627,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "墨玉路/民丰路",
+                    "latitude": 31.311807,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=305",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 4,
+                    "id": 305,
+                    "stationAddress": "墨玉路/民丰路",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506393330267.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.169698,
+                    "gongLi": 100,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "市民广场",
+                    "latitude": 31.303427,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=60",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 5,
+                    "id": 60,
+                    "stationAddress": "市民广场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519232397.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.16984,
+                    "gongLi": 1200,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "嘉亭荟",
+                    "latitude": 31.293667,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=61",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 6,
+                    "id": 61,
+                    "stationAddress": "嘉亭荟",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145176978.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.176479,
+                    "gongLi": 2300,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "安亭新镇",
+                    "latitude": 31.276408,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=62",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 7,
+                    "id": 62,
+                    "stationAddress": "安亭新镇",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519210719.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.416933,
+                    "gongLi": 28000,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "华东师范大学（普陀校区）",
+                    "latitude": 31.233083,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=63",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 8,
+                    "id": 63,
+                    "stationAddress": "华东师范大学（普陀校区）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519223420.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.422288,
+                    "gongLi": 1900,
+                    "type": 0,
+                    "routeName": null,
+                    "stationName": "中山公园",
+                    "latitude": 31.222783,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=64",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 9,
+                    "id": 64,
+                    "stationAddress": "中山公园",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519241825.jpg"
+                }
+            ],
+            "1": [
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.422393,
+                    "gongLi": 0,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "中山公园",
+                    "latitude": 31.22276,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=70",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 1,
+                    "id": 70,
+                    "stationAddress": "中山公园",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519252248.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.417379,
+                    "gongLi": 1900,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "华东师范大学（普陀校区）",
+                    "latitude": 31.233318,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=74",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 2,
+                    "id": 74,
+                    "stationAddress": "华东师范大学（普陀校区）",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519270613.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.176341,
+                    "gongLi": 28000,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "安亭新镇",
+                    "latitude": 31.276364,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=75",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 3,
+                    "id": 75,
+                    "stationAddress": "安亭新镇",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519278758.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.17013,
+                    "gongLi": 2300,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "嘉亭荟",
+                    "latitude": 31.29278,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=76",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 4,
+                    "id": 76,
+                    "stationAddress": "嘉亭荟",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145187482.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.16988,
+                    "gongLi": 1200,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "市民广场",
+                    "latitude": 31.303108,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=77",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 5,
+                    "id": 77,
+                    "stationAddress": "市民广场",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1498519289325.jpg"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.167394,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "墨玉路/民丰路",
+                    "latitude": 31.311923,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=310",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 6,
+                    "id": 310,
+                    "stationAddress": "墨玉路/民丰路",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506393345259.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.159747,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "兰塘集贸市场",
+                    "latitude": 31.31172,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=311",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 7,
+                    "id": 311,
+                    "stationAddress": "民丰路新源路-公交车站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506144992922.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.163907,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "安亭北站",
+                    "latitude": 31.319569,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=312",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 8,
+                    "id": 312,
+                    "stationAddress": "安亭北站",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145011504.png"
+                },
+                {
+                    "distance": null,
+                    "routeVehicleInfo": null,
+                    "longitude": 121.17213,
+                    "gongLi": 100,
+                    "type": 1,
+                    "routeName": null,
+                    "stationName": "肝胆医院",
+                    "latitude": 31.327807,
+                    "detailUrl": "http://ydwl.fzkuliya.com/ydwl-app/app/routeStation/getRouteStationDetail.jhtml?id=313",
+                    "gdId": null,
+                    "sendTime": null,
+                    "stationContent": null,
+                    "stationSeq": null,
+                    "routeSeq": 101,
+                    "flag": 9,
+                    "id": 313,
+                    "stationAddress": "肝胆医院",
+                    "stationImg": "http://ydwl.fzkuliya.com//upload/imgs//route/1506145042573.png"
+                }
+            ]
+        },
+        "routeName": "汽车城---中山公园线",
+        "routeSeq": 101
+    }
+}
