@@ -9,10 +9,10 @@ from upload_to_qiniu import upload
 
 
 if __name__ == '__main__':
-    # yd = QueryYidong()
-    # yd.saveAll()
+    yd = QueryYidong()
+    yd.saveAll()
 
-    # s = SaveData()
-    # s.saveSimple()
+    s = SaveData()
+    s.saveSimple()
     # sendmail('报错测试')
     upload()

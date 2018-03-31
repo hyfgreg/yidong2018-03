@@ -1,7 +1,7 @@
 import json
 from datetime import date
 import shutil
-from config import Config_test as Config
+from config import Config as Config
 import gzip
 
 class SaveData(object):
