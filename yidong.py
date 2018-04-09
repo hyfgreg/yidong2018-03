@@ -5,6 +5,7 @@ from datetime import datetime, date
 import hashlib
 import uuid
 import requests
+from config import Config
 
 import pymongo
 
@@ -21,8 +22,9 @@ class QueryYidong(object):
     def __init__(self):
         self._key = key
         self._nonceStr = str(uuid.uuid1())
-        self._url_official = 'http://ydwl.ev-shanghai.com/ydwl-app'
-        self._url_demo = 'http://ydwl.fzkuliya.com/ydwl-app'
+        # self._url_official = 'http://ydwl.ev-shanghai.com'
+        self._url_demo = Config.yidong_url # 读取config中的url
+        self._port = ':'+str(Config.yidong_port)
         self._url_queryBusSchedule = '/tj/route/queryBusSchedule.jhtml'  # 排班信息
         self._url_queryRouteStionList = '/tj/route/queryRouteStationList.jhtml'  # 站点信息
         self._url_queryRouteList = '/tj/route/queryRouteList.jhtml'  # 线路信息
@@ -68,7 +70,8 @@ class QueryYidong(object):
             }
 
         try:
-            response = requests.post(url=self._url_demo + self._url_queryBusSchedule, data=data)
+            # print(self._url_demo+self._url_queryBusSchedule)
+            response = requests.post(url=self._url_demo + self._url_queryBusSchedule,data=data)
             if response.status_code == 200:
                 return response.text
             else:
@@ -175,7 +178,7 @@ class QueryYidong(object):
                 'nonceStr': self._nonceStr,
                 'timestamp': timestamp,
                 'sign': signValue,
-                'type': type
+                # 'type': type
             }
 
         try:
@@ -377,6 +380,8 @@ class QueryYidong(object):
         with open('data\\'+folder_name+'\\'+ folder_name+ str(date.today()) + '.json', 'wb') as f:
             f.write(documentJSONBYTES)
 
+# yidong = QueryYidong()
+# print(yidong._queryRouteStationTime())
 
 # if __name__ == '__main__':
 #     yidong = QueryYidong()

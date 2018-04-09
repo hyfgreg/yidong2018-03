@@ -55,6 +55,13 @@ class ConfigBase(object):
     routeStationList_FILE = 'routeStationList' + today + '.json'
     routeStationTime_FILE = 'routeStationTime' + today + '.json'
 
+    #是否压缩
+    compress = True
+
+    #驿动api
+    official_url = 'http://ydwl.ev-shanghai.com/ydwl-app'
+    demo_url = 'http://ydwl.fzkuliya.com/ydwl-app'
+    yidong_port = 80
 
 
 
@@ -64,6 +71,8 @@ class Config(ConfigBase):
     updateData_FILE_Compress = 'edbus' + ConfigBase.today + '.json.gz'
     yesterday_FILE = 'edbus' + ConfigBase.yesterday +'.json'
     yesterday_FILE_Compress = 'edbus' + ConfigBase.yesterday + '.json.gz'
+
+    yidong_url = ConfigBase.official_url
 
 
 
@@ -90,6 +99,8 @@ class Config_test(ConfigBase):
     updateData_FILE_Compress = 'edbus' + testdate + '.json.gz'
     yesterday_FILE = 'edbus' + testyesterday+ '.json'
     yesterday_FILE_Compress = 'edbus' + testyesterday + '.json.gz'
+
+    yidong_url = ConfigBase.demo_url
 
 
 #email

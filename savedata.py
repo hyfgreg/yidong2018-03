@@ -1,7 +1,7 @@
 import json
 from datetime import date
 import shutil
-from config import Config_test as Config
+from config import Config
 import gzip
 
 class SaveData(object):
@@ -92,7 +92,7 @@ class SaveData(object):
                 for item in self.newBusSchedule_simple[routeSeq]['schedule']:
                     item['routeStationTime'] = []
 
-    def save2File(self,compress=True):
+    def save2File(self,compress=Config.compress):
         ## 保存成文件
         if type(self.newBusSchedule_simple) == list or type(self.newBusSchedule_simple) == dict:
             #dict --> list

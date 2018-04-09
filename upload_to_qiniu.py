@@ -2,7 +2,7 @@ from qiniu import put_file, etag, urlsafe_base64_encode
 from config import Config
 from datetime import datetime
 
-def upload(Compress = True):
+def upload(Compress = Config.compress):
     if not Compress:
         file = Config.updateData_FILE
     else:
@@ -19,7 +19,7 @@ def upload(Compress = True):
         print(info)
         assert ret['key'] == key
         assert ret['hash'] == etag(localfile)
-        print('成功上传文档{}至{}'.format(localfile, Config.BUCKET_NAME))
+        print('成功上传文档{}至{}'.format(key, Config.BUCKET_NAME))
         return True
     except Exception as e:
         print(e.args)
