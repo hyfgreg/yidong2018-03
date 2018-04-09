@@ -14,5 +14,5 @@ if __name__ == '__main__':
 
     s = SaveData()
     s.saveSimple()
-    # sendmail('报错测试')
-    # upload()
+    sendmail('报错测试')
+    upload()
